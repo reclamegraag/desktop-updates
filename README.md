@@ -1,6 +1,6 @@
 # Windows-apps
 
-Ondertekende installers voor FileManager, KillSwitch, MDReader, SnapShot, SpeechTyper en Licentiebeheer.
+Ondertekende installers voor FileManager, KillSwitch, MDReader, SnapShot, SpeechTyper.
 
 Download de installer van de gewenste app via [Releases](https://github.com/reclamegraag/desktop-updates/releases). Installatiebestanden zijn openbaar; de broncode staat in aparte prive-repositories. De licentiecontrole in de app bepaalt de toegang.
 
